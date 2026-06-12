@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.production
+.env.local
+
+# Temp uploads/downloads
+backend/tmp/
+*.mp3
+*.jpg
+*.png
+
+# Git guides and local testing files
+git.md
+verify_temp.js
+
+# OS files
+.DS_Store
+Thumbs.db
